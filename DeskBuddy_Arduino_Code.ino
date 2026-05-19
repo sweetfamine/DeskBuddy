@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2026 [sweet.famine, LuckiestLuc, Lu2aDev80]
+
 #include "Adafruit_GC9A01A.h"
 #include <Adafruit_GFX.h>
 #include <SPI.h>
